@@ -4,3 +4,6 @@ langchain
 langchain_groq
 python-dotenv
 langchain_tavily
+langchain_mcp_adapters
+fastmcp
+httpx
